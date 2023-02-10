@@ -1,6 +1,6 @@
 ### Hi there 👋, I am Konok Majamder.
 #### Web developer
-![Web developer](https://media.licdn.com/dms/image/C4D16AQGbyaum62a1uw/profile-displaybackgroundimage-shrink_350_1400/0/1654279551942?e=1681344000&v=beta&t=TdMaoRkEh0RsDr7VeuQ1VEluNwbFsxQt-7F7GJDrZZM)
+![Web developer](https://avatars.githubusercontent.com/u/58282427?v=4)
 
  I’m a dedicated and hard working person who believes in honesty and good working relation. I'm a Web Developer. I am always ready to learn any technology or language. A highly dedicated, disciplined and self-learning individual looking to expand my horizons in the field of Web design and Development. I’m expert in HTML, CSS, Bootstrap, JavaScript, ES6, React js, next JS, Node, MongoDB etc. . I am available 24*7 online.
 
