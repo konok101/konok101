@@ -17,7 +17,7 @@ Skills:  REACT /NEXT/ JS / HTML / CSS/Node/Express
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=konok101)](https://github.com/ryo-ma/github-profile-trophy)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=konok101&show_icons=true&count_private=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=konok101&show_icons=true&count_private=false)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=konok101)  
 
