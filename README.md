@@ -1,12 +1,11 @@
 ### Hi there 👋, I am Konok Majamder.
 #### Web developer
-![Web developer](https://avatars.githubusercontent.com/u/58282427?v=4)
 
  I’m a dedicated and hard working person who believes in honesty and good working relation. I'm a Web Developer. I am always ready to learn any technology or language. A highly dedicated, disciplined and self-learning individual looking to expand my horizons in the field of Web design and Development. I’m expert in HTML, CSS, Bootstrap, JavaScript, ES6, React js, next JS, Node, MongoDB etc. . I am available 24*7 online.
 
 Skills:  REACT /NEXT/ JS / HTML / CSS/Node/Express
 
-- 🔭 I’m currently working on REact js, next js, Node and express js 
+- 🔭 I’m currently working on React js, next js,Vue js, Node and express js 
 - 🌱 I’m currently learning REDUX, node js 
 - 👯 I’m looking to collaborate on   
 
